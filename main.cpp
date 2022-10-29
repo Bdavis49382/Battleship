@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <limits>
 #include "Player.h"
 
 bool validateLetter(char letter) {
